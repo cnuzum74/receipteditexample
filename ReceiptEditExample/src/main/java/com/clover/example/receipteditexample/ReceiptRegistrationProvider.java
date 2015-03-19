@@ -19,6 +19,7 @@
  * More Master changes.
  * Still more master changes.
  * And even more changes.
+ * And now a new feature in a branch for Jenkins to merge.
  */
 package com.clover.example.receipteditexample;
 
